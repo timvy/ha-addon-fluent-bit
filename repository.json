@@ -1,6 +1,6 @@
 
 {
   "name": "Fluent Bit Home Assistant addon",
-  "url": "https://github.com/ablyler/ha-addon-fluent-bit",
+  "url": "https://github.com/timvy/ha-addon-fluent-bit",
   "maintainer": "Andy Blyler"
 }
