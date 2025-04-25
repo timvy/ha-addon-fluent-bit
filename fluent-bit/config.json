@@ -11,7 +11,8 @@
   "init": false,
   "startup": "services",
   "map": [
-    "addon_config"
+    "addon_config",
+    "homeassistant_config"
   ],
   "journald": true,
   "options": {
