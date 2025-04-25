@@ -10,9 +10,6 @@
   "image": "ghcr.io/ablyler/{arch}-addon-fluent-bit",
   "init": false,
   "startup": "services",
-  "ports": [
-    "2020/tcp": 2020
-  ],
   "map": [
     "addon_config",
     "homeassistant_config"
