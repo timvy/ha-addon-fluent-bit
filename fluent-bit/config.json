@@ -15,7 +15,7 @@
   ],
   "journald": true,
   "options": {
-    "config_file": "fluent_bit.conf"
+    "config_file": "fluent_bit.yaml"
   },
   "schema": {
     "config_file": "str"
